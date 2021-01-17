@@ -1,0 +1,180 @@
+Item ID,Item Name,Purchase Count,Item Price,Total Purchase Value
+92,Final Critic,13,$4.88,$59.99
+178,"Oathbreaker, Last Hope of the Breaking Storm",12,$4.23,$50.76
+145,Fiery Glass Crusader,9,$4.58,$41.22
+132,Persuasion,9,$3.19,$28.99
+108,"Extraction, Quickblade Of Trembling Hands",9,$3.53,$31.77
+82,Nirvana,9,$4.90,$44.10
+75,Brutality Ivory Warmace,8,$2.42,$19.36
+103,Singed Scalpel,8,$4.35,$34.80
+34,Retribution Axe,8,$2.22,$17.76
+37,"Shadow Strike, Glory of Ending Hope",8,$3.16,$25.28
+19,"Pursuit, Cudgel of Necromancy",8,$1.02,$8.16
+60,Wolf,8,$3.54,$28.32
+72,Winter's Bite,8,$3.77,$30.16
+59,"Lightning, Etcher of the King",8,$4.23,$33.84
+78,"Glimmer, Ender of the Moon",7,$4.40,$30.80
+117,"Heartstriker, Legacy of the Light",7,$1.79,$12.53
+85,Malificent Bag,7,$1.75,$12.25
+110,Suspension,7,$1.44,$10.08
+71,Demise,7,$1.61,$11.27
+53,Vengeance Cleaver,7,$2.05,$14.35
+7,"Thorn, Satchel of Dark Souls",7,$1.33,$9.31
+159,"Oathbreaker, Spellblade of Trials",7,$3.08,$21.56
+164,Exiled Doomblade,7,$1.63,$11.41
+96,Blood-Forged Skeletal Spine,6,$3.09,$18.54
+40,Second Chance,6,$2.52,$15.12
+54,Eternal Cleaver,6,$2.50,$15.00
+160,Azurewrath,6,$4.40,$26.40
+93,Apocalyptic Battlescythe,6,$1.97,$11.82
+129,"Fate, Vengeance of Eternal Justice",6,$1.54,$9.24
+144,Blood Infused Guardian,6,$1.94,$11.64
+22,Amnesia,6,$2.18,$13.08
+179,"Wolf, Promise of the Moonwalker",6,$4.48,$26.88
+120,Agatha,6,$3.08,$18.48
+136,Ghastly Adamantite Protector,6,$3.58,$21.48
+3,Phantomlight,6,$2.49,$14.94
+143,Frenzied Scimitar,6,$1.56,$9.36
+25,Hero Cane,6,$4.35,$26.10
+102,Avenger,6,$3.44,$20.64
+2,Verdict,6,$2.48,$14.88
+12,Dawne,6,$1.02,$6.12
+155,War-Forged Gold Deflector,5,$1.01,$5.05
+131,Fury,5,$1.44,$7.20
+138,"Peacekeeper, Wit of Dark Magic",5,$4.74,$23.70
+128,"Blazeguard, Reach of Eternity",5,$4.91,$24.55
+133,Faith's Scimitar,5,$4.09,$20.45
+137,"Aetherius, Boon of the Blessed",5,$3.39,$16.95
+73,Ritual Mace,5,$2.05,$10.25
+156,Soul-Forged Steel Shortsword,5,$1.77,$8.85
+98,"Deadline, Voice Of Subtlety",5,$2.89,$14.45
+150,Deathraze,5,$2.85,$14.25
+139,"Mercy, Katana of Dismay",5,$4.94,$24.70
+149,"Tranquility, Razor of Black Magic",5,$1.75,$8.75
+114,Yearning Mageblade,5,$3.82,$19.10
+87,"Deluge, Edge of the West",5,$4.43,$22.15
+140,Striker,5,$2.94,$14.70
+88,"Emberling, Defender of Delusions",5,$3.75,$18.75
+146,Warped Iron Scimitar,5,$3.10,$15.50
+100,Blindscythe,5,$3.27,$16.35
+80,Dreamsong,5,$3.39,$16.95
+65,Conqueror Adamantite Mace,5,$4.24,$21.20
+32,Orenmir,5,$1.14,$5.70
+39,"Betrayal, Whisper of Grieving Widows",5,$3.94,$19.70
+44,Bonecarvin Battle Axe,5,$2.38,$11.90
+20,Netherbane,5,$3.27,$16.35
+46,Hopeless Ebon Dualblade,5,$1.33,$6.65
+29,"Chaos, Ender of the End",5,$1.98,$9.90
+163,Thunderfury Scimitar,5,$3.45,$17.25
+15,Soul Infused Crystal,5,$2.96,$14.80
+21,Souleater,5,$1.10,$5.50
+162,Abyssal Shard,5,$2.67,$13.35
+11,Brimstone,5,$3.65,$18.25
+161,Devine,5,$1.76,$8.80
+24,Warped Fetish,5,$3.81,$19.05
+181,Reaper's Toll,5,$1.66,$8.30
+35,Heartless Bone Dualblade,5,$3.45,$17.25
+4,Bloodlord's Fetish,5,$1.70,$8.50
+111,Misery's End,4,$4.89,$19.56
+107,"Splitter, Foe Of Subtlety",4,$2.18,$8.72
+105,Hailstorm Shadowsteel Scythe,4,$3.03,$12.12
+174,Primitive Blade,4,$3.47,$13.88
+172,Blade of the Grave,4,$3.14,$12.56
+17,"Lazarus, Terror of the Earth",4,$1.70,$6.80
+16,Restored Bauble,4,$3.55,$14.20
+112,Worldbreaker,4,$2.60,$10.40
+113,Solitude's Reaver,4,$4.07,$16.28
+116,Renewed Skeletal Katana,4,$4.18,$16.72
+13,Serenity,4,$1.41,$5.64
+10,Sleepwalker,4,$1.79,$7.16
+9,"Thorn, Conqueror of the Corrupted",4,$2.73,$10.92
+121,Massacre,4,$1.60,$6.40
+123,Twilight's Carver,4,$2.28,$9.12
+124,Venom Claymore,4,$1.29,$5.16
+5,Putrid Fan,4,$4.08,$16.32
+99,"Expiration, Warscythe Of Lost Worlds",4,$1.71,$6.84
+157,"Spada, Etcher of Hatred",4,$4.80,$19.20
+0,Splinter,4,$1.28,$5.12
+165,Bone Crushing Silver Skewer,4,$4.86,$19.44
+153,Mercenary Sabre,4,$3.74,$14.96
+70,Hope's End,4,$1.03,$4.12
+52,Hatred,4,$4.84,$19.36
+50,Dawn,4,$4.60,$18.40
+152,Darkheart,4,$1.74,$6.96
+76,Haunted Bronzed Bludgeon,4,$3.15,$12.60
+77,"Piety, Guardian of Riddles",4,$4.00,$16.00
+170,Shadowsteel,4,$3.97,$15.88
+45,Glinting Glass Edge,4,$3.85,$15.40
+83,Lifebender,4,$3.33,$13.32
+66,Victor Iron Spikes,4,$4.40,$17.60
+67,"Celeste, Incarnation of the Corrupted",4,$3.46,$13.84
+167,"Malice, Legacy of the Queen",4,$3.61,$14.44
+57,"Despair, Favor of Due Diligence",4,$4.60,$18.40
+38,"The Void, Vengeance of Dark Magic",4,$2.37,$9.48
+1,Crucifer,4,$3.26,$11.77
+154,Feral Katana,4,$4.40,$17.60
+169,"Interrogator, Blood Blade of the Queen",4,$2.18,$8.72
+94,Mourning Blade,4,$3.49,$13.96
+58,"Freak's Bite, Favor of Holy Might",4,$4.14,$16.56
+68,"Storm-Weaver, Slayer of Inception",4,$4.32,$17.28
+135,Warped Diamond Crusader,3,$1.40,$4.20
+182,Toothpick,3,$4.03,$12.09
+171,Scalpel,3,$1.79,$5.37
+166,Thirsty Iron Reaver,3,$3.07,$9.21
+148,"Warmonger, Gift of Suffering's End",3,$4.03,$12.09
+147,"Hellreaver, Heirloom of Inception",3,$4.93,$14.79
+142,Righteous Might,3,$2.62,$7.86
+175,Woeful Adamantite Claymore,3,$4.48,$13.44
+151,Severance,3,$3.40,$10.20
+183,Dragon's Greatsword,3,$1.09,$3.27
+130,Alpha,3,$2.07,$6.21
+89,"Blazefury, Protector of Delusions",3,$4.64,$13.92
+8,"Purgatory, Gem of Regret",3,$3.93,$11.79
+30,Stormcaller,3,$2.21,$7.78
+41,Orbit,3,$4.75,$14.25
+49,"The Oculus, Token of Lost Worlds",3,$2.96,$8.88
+55,Vindictive Glass Edge,3,$2.27,$6.81
+62,Piece Maker,3,$1.87,$5.61
+64,Fusion Pummel,3,$4.82,$14.46
+74,Yearning Crusher,3,$4.18,$12.54
+79,"Alpha, Oath of Zeal",3,$4.05,$12.15
+84,Arcane Gem,3,$3.79,$11.37
+86,Stormfury Lantern,3,$2.27,$6.81
+61,Ragnarok,3,$3.87,$11.61
+119,"Stormbringer, Dark Blade of Ending Misery",3,$4.32,$12.96
+122,Unending Tyranny,3,$2.85,$8.55
+97,"Swan Song, Gouger Of Terror",3,$2.50,$7.50
+106,Crying Steel Sickle,3,$3.41,$10.23
+109,"Downfall, Scalpel Of The Emperor",3,$4.76,$14.28
+95,Singed Onyx Warscythe,3,$4.74,$14.22
+173,Stormfury Longsword,2,$4.93,$9.86
+28,"Flux, Destroyer of Due Diligence",2,$1.06,$2.12
+177,"Winterthorn, Defender of Shifting Worlds",2,$2.08,$4.16
+31,Trickster,2,$1.55,$3.10
+33,Curved Axe,2,$1.16,$2.32
+168,"Sun Strike, Jaws of Twisted Visions",2,$1.48,$2.96
+125,Whistling Mithril Warblade,2,$1.00,$2.00
+18,"Torchlight, Bond of Storms",2,$4.65,$9.30
+43,Foul Edge,2,$3.54,$7.08
+48,"Rage, Legacy of the Lone Victor",2,$2.48,$4.96
+176,Relentless Iron Skewer,2,$2.84,$5.68
+14,Possessed Core,2,$2.61,$5.22
+26,Unholy Wand,2,$1.12,$2.24
+56,Foul Titanium Battle Axe,2,$2.92,$5.84
+158,"Darkheart, Butcher of the Champion",2,$2.45,$4.90
+127,"Heartseeker, Reaver of Souls",2,$3.92,$7.84
+63,Stormfury Mace,2,$4.99,$9.98
+115,Spectral Diamond Doomblade,2,$2.04,$4.08
+69,"Frenzy, Defender of the Harvest",2,$1.98,$3.96
+81,Dreamkiss,2,$3.61,$7.22
+6,Rusty Skull,2,$3.70,$7.40
+126,Exiled Mithril Longsword,1,$2.00,$2.00
+90,Betrayer,1,$2.94,$2.94
+47,"Alpha, Reach of Ending Hope",1,$3.58,$3.58
+27,"Riddle, Tribute of Ended Dreams",1,$3.30,$3.30
+134,Undead Crusader,1,$4.50,$4.50
+42,The Decapitator,1,$1.75,$1.75
+51,Endbringer,1,$4.66,$4.66
+118,"Ghost Reaver, Longsword of Magic",1,$2.17,$2.17
+104,Gladiator's Glaive,1,$1.93,$1.93
+91,Celeste,1,$4.17,$4.17
